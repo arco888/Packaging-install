@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://loaclhost:8181/FileExplorerExampleApp.ipa</string>
+					<string>http://10.218.0.119:8181/FileExplorerExampleApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
